@@ -1,4 +1,4 @@
-package oppgave1;
+package oppg2.no.hvl.dat108;
 
 public class Print implements Runnable {
 
