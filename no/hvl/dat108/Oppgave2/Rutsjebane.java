@@ -1,4 +1,4 @@
-package no.hvl.dat108;
+package no.hvl.dat108.Oppgave2;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
@@ -20,7 +20,7 @@ public class Rutsjebane {
 	    		}
 	    	} else {
 	    		notify();
-		    	System.out.printf("%s legger på burger%s => %s\n", kokk, burger, burgere);
+		    	System.out.printf("%s legger pï¿½ burger%s => %s\n", kokk, burger, burgere);
 		    	burgere.add(burger);
 		 
 	    	}	

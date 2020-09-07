@@ -1,4 +1,4 @@
-package no.hvl.dat108;
+package no.hvl.dat108.Oppgave2;
 
 public class Servitor extends Thread {
 
@@ -24,6 +24,6 @@ public class Servitor extends Thread {
 
     @Override
     public String toString() {
-        return "Servitør" + number;
+        return "Servitï¿½r" + number;
     }
 }

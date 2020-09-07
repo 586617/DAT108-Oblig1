@@ -1,3 +1,5 @@
+package no.hvl.dat108.Oppgave3;
+
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ThreadLocalRandom;
 

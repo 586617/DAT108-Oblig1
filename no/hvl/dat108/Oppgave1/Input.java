@@ -1,6 +1,6 @@
-package oppg2.no.hvl.dat108;
+package no.hvl.dat108.Oppgave1;
 
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 public class Input implements Runnable {
 
